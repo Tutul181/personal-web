@@ -1,0 +1,97 @@
+body {
+    margin: 0px;
+    font-family: 'Oswald';
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    color: deeppink;
+    font-size: 60px;
+}
+
+p {
+    color: dimgray;
+}
+
+.container {
+    width: 39%;
+    float: left;
+    margin: 0%;
+    padding: 5%;
+}
+
+.container img {
+    width: 75%;
+}
+
+.biography {
+    background-image: url(images/b.png);
+    background-repeat: no-repeat;
+}
+
+.top-banner {
+    background-image: url(images/h.png);
+    background-repeat: no-repeat;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(180deg, deeppink, rgb(250, 6, 87));
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.work img {
+    width: 33%;
+    float: right;
+}
+
+.my {
+    text-align: center;
+}
+
+#name {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+#ceo {
+    text-align: center;
+}
+
+#pa {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.email {
+    text-align: center;
+    background-color: deeppink;
+    color: white;
+    border-radius: 10px;
+    height: 130px;
+    width: 550px;
+    margin-left: 500px;
+    text-emphasis-position: 20px;
+}
+
+#bold {
+    font-size: 20px;
+}
+
+#footer {
+    text-align: center;
+}
+
+section {
+    height: 500px;
+    padding-bottom: 250px;
+}
